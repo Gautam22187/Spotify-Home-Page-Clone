@@ -82,7 +82,7 @@ spotify-clone/
 
 ---
 
-## 🎯 Future Enhancements (Optional Ideas)
+## 🎯 Future Enhancements
 
 - Add JavaScript to support live music playbook
 - User authentication system
